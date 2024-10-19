@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots
 
-![Screenshot 1](screenshot_1.png)
+![Screenshot 1](Screenshot_1.png)
 
 ![Screenshot 2](screenshot_2.png)
 
