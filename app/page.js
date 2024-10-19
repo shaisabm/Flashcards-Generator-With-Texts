@@ -75,50 +75,44 @@ export default function Home() {
           <Typography variant='h4' gutterBottom>Features</Typography>
           <Grid container spacing={4}>
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>AI-Powered Flashcard Creation</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Generate flashcards automatically from your text input using advanced AI technology.
                     </Typography>
               </Grid>
 
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom >Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>Personalized Flashcard Sets</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Create and manage multiple sets of flashcards tailored to your specific learning needs.
                     </Typography>
               </Grid>
 
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>Cloud Storage</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Securely save your flashcards in the cloud, accessible anytime from any device.
                     </Typography>
               </Grid>
 
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>Interactive Flashcard Review</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Study your flashcards with an intuitive, flip-card interface for effective learning.
                     </Typography>
               </Grid>
 
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>User Authentication</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Secure login and signup functionality to keep your flashcards private and personalized.
                     </Typography>
               </Grid>
 
               <Grid item xs={12} md={4}>
-                    <Typography variant='h6' gutterBottom>Smart Flashcards</Typography>
+                    <Typography variant='h6' gutterBottom>Premium Subscription</Typography>
                     <Typography>
-                        {' '}
-                        Create flashcards from your text
+                        Unlock unlimited flashcards and storage with our affordable Pro plan.
                     </Typography>
               </Grid>
           </Grid>
